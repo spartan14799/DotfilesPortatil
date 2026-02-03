@@ -31,6 +31,9 @@ alias lg='lazygit'
 #ranger
 alias r='rr'
 
+#lazyvim
+alias vim='nvim'
+
 
 #Colores lsd
 export LS_COLORS="di=31:fi=31:ln=31:pi=31:so=31:bd=31:cd=31:or=31:mi=31:ex=31"
