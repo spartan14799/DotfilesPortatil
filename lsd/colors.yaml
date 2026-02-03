@@ -1,0 +1,33 @@
+user: red
+group: dark_red
+permission:
+  read: red
+  write: dark_red
+  exec: red
+  other: grey
+date:
+  hour: red
+  day: red
+  month: dark_red
+  year: red
+  timezone: red
+size:
+  none: grey
+  small: red
+  medium: red
+  large: dark_red
+inode: red
+links: red
+tree:
+  edge: red
+  guide: dark_red
+git-status:
+  default: red
+  unmodified: red
+  ignored: grey
+  new: red
+  modified: dark_red
+  conflicted: red
+  deleted: red
+  renamed: red
+  type-change: red
